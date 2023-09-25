@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+div{
+    border-bottom: 50%;
+    padding-top: 10%;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#imagen {
+    width: 100%;
+}
